@@ -1,5 +1,7 @@
 ## Welcome to PaperStack!
 
+[Click here to open PaperStack in Colab.](https://github.com/EigenFlowIO/PaperStack/)
+
 ### What is PaperStack?
 PaperStack is a **multi-agent** AI pipeline designed for automated document generation. It showcases how specialized AI agents can collaborate to create **structured**, **domain-specific** writing, such as **research papers**, **technical reports**, and **formal documents**.
 
