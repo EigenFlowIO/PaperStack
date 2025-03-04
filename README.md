@@ -38,10 +38,9 @@ Enhancements and Additional Features:
   - Support for various fields of study
   - User-defined key points, arguments, and hypotheses
   - Methodology, data, and result inputs
-  - Preferred philosophical frameworks or schools of thought
-  - Specific philosophers or works for reference
+  - Specific works for reference
   - Citation style preferences
-  - Inclusion of counterarguments and responses
+  - Inclusion of discussion
   - Customizable writing styles (academic, accessible, narrative)
 
 - Refining the Attribution Scanner:
