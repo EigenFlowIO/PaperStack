@@ -13,21 +13,22 @@ The user provides a topic, and the AI pipeline systematically progresses through
 
 2. AI Pipeline Overview
 PaperStack follows a structured multi-agent workflow to ensure systematic content generation:
-- Task-Specific System Prompts
+
+- Task-Specific System Prompts: 
   Each AI agent is assigned a specialized role with structured prompts tailored to its function, ensuring focused execution at every stage.
-- Strict Formatting Guidelines for Outputs (JSON)
+- Strict Formatting Guidelines for Outputs (JSON):
   All output content adheres to standardized JSON formatting, maintaining consistency and ensuring compatibility for further processing.
-- Dual-Layer JSON Validation
+- Dual-Layer JSON Validation:
   Generated JSON responses undergo automated validation to check for structural and syntactical correctness. If parsing fails, a JSON-fixing agent corrects errors until a valid response is achieved.
-- Drafting and Paragraph-Level Revisions
+- Drafting and Paragraph-Level Revisions:
   The system first drafts the document and then performs paragraph-by-paragraph revisions to enhance clarity, coherence, and logical flow.
-- Section Scanning and Coherence Revisions
+- Section Scanning and Coherence Revisions:
   Each section undergoes analysis for coherence and redundancy. A separate AI agent ensures logical consistency and minimizes repetition.
-- Attribution Scanning and Citation Insertion
+- Attribution Scanning and Citation Insertion:
   The system scans for statements requiring attribution and inserts citations in a structured format.
-- Abstract Generation
+- Abstract Generation:
   A summarization step creates a concise abstract that distills the core arguments and conclusions of the document.
-- Formatting for Printing
+- Formatting for Printing:
   The final document is structured for readability and prepared for output in a format suitable for review.
 
 Future Plans
@@ -43,11 +44,11 @@ Enhancements and Additional Features:
   - Inclusion of counterarguments and responses
   - Customizable writing styles (academic, accessible, narrative)
 
-- Refining the Attribution Scanner
+- Refining the Attribution Scanner:
   - Integration with citation databases like Google Scholar and field-specific OAI-PMH repositories for citation validation.
-- Specialized AI Models
+- Specialized AI Models:
   - Fine-tuned models for editing, revision, in-text attribution, and citation insertion.
-- Web UI Development
+- Web UI Development:
   - Migration to a web-based interface for improved user experience.
 
 Getting Started
