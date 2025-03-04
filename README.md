@@ -5,7 +5,7 @@ Welcome to PaperStack!
 What is PaperStack?
 PaperStack is a multi-agent AI pipeline designed for automated document generation. It showcases how specialized AI agents can collaborate to create structured, domain-specific writing, such as research papers, technical reports, and formal documents.
 
-This project is an experiment in automation rather than an attempt to replace human-quality academic work. It offers a transparent and modular approach to observing and refining AI-generated structured content. All outputs are fully AI-generated and not attributable to any individual or entity.
+This project is an experiment in automation rather than an attempt to replace human-quality academic work or create writing that subverts AI detection. It offers a transparent and modular approach to observing and refining AI-generated structured content. All outputs are fully AI-generated and not attributable to any individual or entity.
 
 How It Works
 1. User Input
