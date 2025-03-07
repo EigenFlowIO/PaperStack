@@ -64,7 +64,7 @@ PaperStack follows a structured multi-agent workflow to ensure systematic conten
   - Discourse Connective Count  
   - Topic Flow Consistency (TF-IDF Shift)  
   - Entity Grid Model  
-- **Refine and improve the attribution scanner.**  
+- **Refine and improve attribution scanning.**  
 - **Link to a database of works like Google Scholar and field-specific OAI-PMH databases to validate works cited.**
 
 
