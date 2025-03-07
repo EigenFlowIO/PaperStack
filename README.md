@@ -51,7 +51,6 @@ PaperStack follows a structured multi-agent workflow to ensure systematic conten
   - Additional fields of study  
   - Key points or arguments the user wants included  
   - User prompted hypotheses, methodology, data, and results  
-  - Preferred philosophical frameworks or schools of thought  
   - Specific philosophers or works to reference  
   - Writing style preference (academic, accessible, narrative)  
 - **Include tools for quality analysis, such as:**  
