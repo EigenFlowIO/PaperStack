@@ -51,7 +51,6 @@ PaperStack follows a structured multi-agent workflow to ensure systematic conten
   - Additional fields of study  
   - Key points or arguments the user wants included  
   - User prompted hypotheses, methodology, data, and results  
-  - Preferred philosophical frameworks or schools of thought  
   - Specific philosophers or works to reference  
   - Writing style preference (academic, accessible, narrative)  
 - **Include tools for quality analysis, such as:**  
@@ -65,7 +64,7 @@ PaperStack follows a structured multi-agent workflow to ensure systematic conten
   - Discourse Connective Count  
   - Topic Flow Consistency (TF-IDF Shift)  
   - Entity Grid Model  
-- **Refine and improve the attribution scanner.**  
+- **Refine and improve attribution scanning.**  
 - **Link to a database of works like Google Scholar and field-specific OAI-PMH databases to validate works cited.**
 
 
