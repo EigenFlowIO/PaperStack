@@ -43,27 +43,31 @@ PaperStack follows a structured multi-agent workflow to ensure systematic conten
 
 ---
 
-### Future Plans
+## Future Work
 
-#### Enhancements and Additional Features:
-- **Expanded user input options, including:**
-  - Additional context for AI guidance  
-  - Support for various fields of study  
-  - User-defined key points, arguments, and hypotheses  
-  - Methodology, data, and result inputs  
-  - Specific works for reference  
-  - Citation style preferences  
-  - Inclusion of discussion  
-  - Customizable writing styles (academic, accessible, narrative)  
+- **Clean and revise initial codebase.**  
+- **Add more fields for user inputs, including:**  
+  - Additional context to guide the AI's understanding  
+  - Additional fields of study  
+  - Key points or arguments the user wants included  
+  - User prompted hypotheses, methodology, data, and results  
+  - Preferred philosophical frameworks or schools of thought  
+  - Specific philosophers or works to reference  
+  - Writing style preference (academic, accessible, narrative)  
+- **Include tools for quality analysis, such as:**  
+  - Cosine Similarity of Consecutive Sentences  
+  - Lexical Overlap Score  
+  - N-gram Repetition Count  
+  - Compression Ratio  
+  - TF-IDF Similarity per Paragraph  
+  - Sentence Cohesion Score  
+  - Lexical Chain Analysis  
+  - Discourse Connective Count  
+  - Topic Flow Consistency (TF-IDF Shift)  
+  - Entity Grid Model  
+- **Refine and improve the attribution scanner.**  
+- **Link to a database of works like Google Scholar and field-specific OAI-PMH databases to validate works cited.**
 
-- **Refining the Attribution Scanner:**
-  - Integration with citation databases like Google Scholar and field-specific OAI-PMH repositories for citation validation.  
-
-- **Specialized AI Models:**
-  - Fine-tuned models for editing, revision, in-text attribution, and citation insertion.  
-
-- **Web UI Development:**
-  - Migration to a web-based interface for improved user experience.
 
 ---
 
